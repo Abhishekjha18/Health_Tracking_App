@@ -75,7 +75,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/syncwell.git
+   git clone https://github.com/Abhishekjha18/Health_Tracking_App.git
    cd syncwell
    ```
 
@@ -233,13 +233,6 @@ SyncWell is built with accessibility in mind:
 
 We welcome contributions! Here's how you can help:
 
-### 🐛 Bug Reports
-- Use the [issue tracker](https://github.com/yourusername/syncwell/issues)
-- Include device info and steps to reproduce
-
-### 💡 Feature Requests
-- Check existing [feature requests](https://github.com/yourusername/syncwell/issues?q=label%3Aenhancement)
-- Open a new issue with detailed description
 
 ### 🔧 Pull Requests
 1. Fork the repository
@@ -269,16 +262,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Android Team** - For amazing development tools
 - **Open Source Community** - For inspiration and support
 
----
-
-## 📞 Support
-
-Having issues? We're here to help!
-
-- 📧 **Email**: support@syncwell.app
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/syncwell/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/syncwell/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/syncwell/wiki)
 
 ---
 
